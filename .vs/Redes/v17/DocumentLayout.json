@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|c:\\users\\pablomoz\\onedrive\\escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\redes\\redes\\controllers\\materialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|solutionrelative:redes\\controllers\\materialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\redes\\views\\materiales\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|solutionrelative:redes\\views\\materiales\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\redes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|solutionrelative:redes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\redes\\models\\bodegacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|solutionrelative:redes\\models\\bodegacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\redes\\views\\materiales\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|solutionrelative:redes\\views\\materiales\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\redes\\views\\materiales\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|solutionrelative:redes\\views\\materiales\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\redes\\views\\materiales\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|solutionrelative:redes\\views\\materiales\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\redes\\models\\redes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|solutionrelative:redes\\models\\redes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\redes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3BDE70-9613-428A-9C28-7339B84A4AA4}|Redes\\Redes.csproj|solutionrelative:redes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialesController.cs",
+              "DocumentMoniker": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Controllers\\MaterialesController.cs",
+              "RelativeDocumentMoniker": "Redes\\Controllers\\MaterialesController.cs",
+              "ToolTip": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Controllers\\MaterialesController.cs",
+              "RelativeToolTip": "Redes\\Controllers\\MaterialesController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:10:36.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Materiales\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Redes\\Views\\Materiales\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Materiales\\Listar.cshtml",
+              "RelativeToolTip": "Redes\\Views\\Materiales\\Listar.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T19:02:22.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Materiales\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Redes\\Views\\Materiales\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Materiales\\Editar.cshtml",
+              "RelativeToolTip": "Redes\\Views\\Materiales\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T20:00:37.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Materiales\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Redes\\Views\\Materiales\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Materiales\\Eliminar.cshtml",
+              "RelativeToolTip": "Redes\\Views\\Materiales\\Eliminar.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T03:02:06.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Redes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Redes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T02:48:32.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Redes.cs",
+              "DocumentMoniker": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Models\\Redes.cs",
+              "RelativeDocumentMoniker": "Redes\\Models\\Redes.cs",
+              "ToolTip": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Models\\Redes.cs",
+              "RelativeToolTip": "Redes\\Models\\Redes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:35:48.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Materiales\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Redes\\Views\\Materiales\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Views\\Materiales\\Crear.cshtml",
+              "RelativeToolTip": "Redes\\Views\\Materiales\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T00:24:51.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BodegaContext.cs",
+              "DocumentMoniker": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Models\\BodegaContext.cs",
+              "RelativeDocumentMoniker": "Redes\\Models\\BodegaContext.cs",
+              "ToolTip": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\Models\\BodegaContext.cs",
+              "RelativeToolTip": "Redes\\Models\\BodegaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:35:03.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\appsettings.json",
+              "RelativeDocumentMoniker": "Redes\\appsettings.json",
+              "ToolTip": "C:\\Users\\pablomoz\\OneDrive\\Escritorio\\c#\\crud\\piso 10\\login\\curso c#\\practica\\Redes\\Redes\\appsettings.json",
+              "RelativeToolTip": "Redes\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T18:30:15.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

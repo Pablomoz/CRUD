@@ -1,0 +1,16 @@
+﻿@model Redes
+
+<h2>Editar Material</h2>
+
+<form asp-action="Editar">
+    <div class="form-group">
+        <label for="Nombre">Nombre</label>
+        <input type="text" class="form-control" id="Nombre" name="Nombre" value="@Model.Nombre" required />
+    </div>
+    <div class="form-group">
+        <label for="Cantidad">Cantidad</label>
+        <input type="number" class="form-control" id="Cantidad" name="Cantidad" value="@Model.Cantidad" required />
+    </div>
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Redes>
+
+    <h1>materiales</h1>
+ <p>
+    <a asp-action="Crear" class="btn btn-primary">Crear Nuevo Material</a>
+    
+
+</p>
+    <table class="table">
+    <tread>
+        <tr>
+        <td>Id</td>
+        <td>Nombre</td>
+        <td>Cantidad</td>
+    </tr>
+    </tread>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+
+                <td>@r.Id</td>
+                <td>@r.Nombre</td>
+                <td>@r.Cantidad</td>
+                <td>
+                    <a asp-action="Eliminar" asp-route-id="@r.Id" class="btn btn-danger">Eliminar</a>
+                    <a asp-action="Editar" asp-route-id="@r.Id" class="btn btn-danger">Editar</a>
+                </td>
+
+                
+            </tr>
+        }
+
+
+    </tbody>
+
+
+</table>
+
+
+
